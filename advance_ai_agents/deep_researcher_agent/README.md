@@ -1,4 +1,4 @@
-# Deep Researcher Agent
+# error404xbt AGENT
 
 ![Demo](./assets/demo.png)
 
@@ -39,7 +39,7 @@ A multi-stage AI-powered research workflow agent that automates comprehensive we
 
 ## Installation
 
-Follow these steps to set up the **Deep Researcher Agent** on your machine:
+Follow these steps to set up the **error404xbt AGENT** on your machine:
 
 1. **Install `uv`** (if you don’t have it):
 
